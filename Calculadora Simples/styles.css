@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(214, 177, 183); 
+    margin: 0;  
+    padding: 20px;  
+    font-family: Arial, sans-serif; 
+} 
+
+#calc {
+    width: 50mm;  
+    height: 60mm; 
+    background-color: rgb(216, 71, 71);  
+    margin: 10px auto;  
+    padding: 10mm;     
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+    border: 1px solid black;  
+}
+botão{
+    background-color: #008CBA; 
+    color: white; 
+    padding: 12px 24px; 
+    font-size: 16px; 
+    border: none; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.8); 
+    transition: background-color 0.7s ease, box-shadow 0.7s ease;
+}
